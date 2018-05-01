@@ -1,6 +1,6 @@
 # GPStracker_revgeo
 
-An example of parsing lat, long coordinates and visualizing address poi (reverse geocoding) using Google Map API in Python3
+An example parsing lat, long coordinates and visualizing address poi (reverse geocoding) using Google Map API in Python3
 
 ## Information
 

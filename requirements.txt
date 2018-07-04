@@ -1,0 +1,4 @@
+numpy
+gmplot
+webbrowser
+googlemaps
